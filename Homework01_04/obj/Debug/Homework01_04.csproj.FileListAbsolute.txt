@@ -1,0 +1,10 @@
+C:\Users\rinla\OneDrive\Desktop\C#Homework\Homework\Homework01_04\obj\Debug\Homework01_04.csproj.AssemblyReference.cache
+C:\Users\rinla\OneDrive\Desktop\C#Homework\Homework\Homework01_04\obj\Debug\Homework01_04.frmCarRental.resources
+C:\Users\rinla\OneDrive\Desktop\C#Homework\Homework\Homework01_04\obj\Debug\Homework01_04.Properties.Resources.resources
+C:\Users\rinla\OneDrive\Desktop\C#Homework\Homework\Homework01_04\obj\Debug\Homework01_04.csproj.GenerateResource.cache
+C:\Users\rinla\OneDrive\Desktop\C#Homework\Homework\Homework01_04\obj\Debug\Homework01_04.csproj.CoreCompileInputs.cache
+C:\Users\rinla\OneDrive\Desktop\C#Homework\Homework\Homework01_04\bin\Debug\Homework01_04.exe.config
+C:\Users\rinla\OneDrive\Desktop\C#Homework\Homework\Homework01_04\bin\Debug\Homework01_04.exe
+C:\Users\rinla\OneDrive\Desktop\C#Homework\Homework\Homework01_04\bin\Debug\Homework01_04.pdb
+C:\Users\rinla\OneDrive\Desktop\C#Homework\Homework\Homework01_04\obj\Debug\Homework01_04.exe
+C:\Users\rinla\OneDrive\Desktop\C#Homework\Homework\Homework01_04\obj\Debug\Homework01_04.pdb

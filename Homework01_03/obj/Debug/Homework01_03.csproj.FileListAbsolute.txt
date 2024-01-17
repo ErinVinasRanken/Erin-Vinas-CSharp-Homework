@@ -1,0 +1,7 @@
+C:\Users\rinla\OneDrive\Desktop\C#Homework\Homework\Homework01_03\bin\Debug\Homework01_03.exe.config
+C:\Users\rinla\OneDrive\Desktop\C#Homework\Homework\Homework01_03\bin\Debug\Homework01_03.exe
+C:\Users\rinla\OneDrive\Desktop\C#Homework\Homework\Homework01_03\bin\Debug\Homework01_03.pdb
+C:\Users\rinla\OneDrive\Desktop\C#Homework\Homework\Homework01_03\obj\Debug\Homework01_03.csproj.AssemblyReference.cache
+C:\Users\rinla\OneDrive\Desktop\C#Homework\Homework\Homework01_03\obj\Debug\Homework01_03.csproj.CoreCompileInputs.cache
+C:\Users\rinla\OneDrive\Desktop\C#Homework\Homework\Homework01_03\obj\Debug\Homework01_03.exe
+C:\Users\rinla\OneDrive\Desktop\C#Homework\Homework\Homework01_03\obj\Debug\Homework01_03.pdb
