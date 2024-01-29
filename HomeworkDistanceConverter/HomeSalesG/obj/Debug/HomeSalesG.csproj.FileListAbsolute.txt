@@ -1,0 +1,10 @@
+C:\Users\rinla\OneDrive\Desktop\C#Homework\HomeworkDistanceConverter\HomeSalesG\bin\Debug\HomeSalesG.exe.config
+C:\Users\rinla\OneDrive\Desktop\C#Homework\HomeworkDistanceConverter\HomeSalesG\bin\Debug\HomeSalesG.exe
+C:\Users\rinla\OneDrive\Desktop\C#Homework\HomeworkDistanceConverter\HomeSalesG\bin\Debug\HomeSalesG.pdb
+C:\Users\rinla\OneDrive\Desktop\C#Homework\HomeworkDistanceConverter\HomeSalesG\obj\Debug\HomeSalesG.csproj.AssemblyReference.cache
+C:\Users\rinla\OneDrive\Desktop\C#Homework\HomeworkDistanceConverter\HomeSalesG\obj\Debug\HomeSalesG.HomeSales.resources
+C:\Users\rinla\OneDrive\Desktop\C#Homework\HomeworkDistanceConverter\HomeSalesG\obj\Debug\HomeSalesG.Properties.Resources.resources
+C:\Users\rinla\OneDrive\Desktop\C#Homework\HomeworkDistanceConverter\HomeSalesG\obj\Debug\HomeSalesG.csproj.GenerateResource.cache
+C:\Users\rinla\OneDrive\Desktop\C#Homework\HomeworkDistanceConverter\HomeSalesG\obj\Debug\HomeSalesG.csproj.CoreCompileInputs.cache
+C:\Users\rinla\OneDrive\Desktop\C#Homework\HomeworkDistanceConverter\HomeSalesG\obj\Debug\HomeSalesG.exe
+C:\Users\rinla\OneDrive\Desktop\C#Homework\HomeworkDistanceConverter\HomeSalesG\obj\Debug\HomeSalesG.pdb

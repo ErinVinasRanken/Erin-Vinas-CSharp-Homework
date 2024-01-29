@@ -1,0 +1,7 @@
+C:\Users\rinla\OneDrive\Desktop\C#Homework\HomeworkDistanceConverter\HomeSales\bin\Debug\HomeSales.exe.config
+C:\Users\rinla\OneDrive\Desktop\C#Homework\HomeworkDistanceConverter\HomeSales\bin\Debug\HomeSales.exe
+C:\Users\rinla\OneDrive\Desktop\C#Homework\HomeworkDistanceConverter\HomeSales\bin\Debug\HomeSales.pdb
+C:\Users\rinla\OneDrive\Desktop\C#Homework\HomeworkDistanceConverter\HomeSales\obj\Debug\HomeSales.csproj.AssemblyReference.cache
+C:\Users\rinla\OneDrive\Desktop\C#Homework\HomeworkDistanceConverter\HomeSales\obj\Debug\HomeSales.csproj.CoreCompileInputs.cache
+C:\Users\rinla\OneDrive\Desktop\C#Homework\HomeworkDistanceConverter\HomeSales\obj\Debug\HomeSales.exe
+C:\Users\rinla\OneDrive\Desktop\C#Homework\HomeworkDistanceConverter\HomeSales\obj\Debug\HomeSales.pdb

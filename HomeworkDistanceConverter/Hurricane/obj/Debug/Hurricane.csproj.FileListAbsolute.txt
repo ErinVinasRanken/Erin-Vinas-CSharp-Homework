@@ -1,0 +1,10 @@
+C:\Users\rinla\OneDrive\Desktop\C#Homework\HomeworkDistanceConverter\Hurricane\bin\Debug\Hurricane.exe.config
+C:\Users\rinla\OneDrive\Desktop\C#Homework\HomeworkDistanceConverter\Hurricane\bin\Debug\Hurricane.exe
+C:\Users\rinla\OneDrive\Desktop\C#Homework\HomeworkDistanceConverter\Hurricane\bin\Debug\Hurricane.pdb
+C:\Users\rinla\OneDrive\Desktop\C#Homework\HomeworkDistanceConverter\Hurricane\obj\Debug\Hurricane.csproj.AssemblyReference.cache
+C:\Users\rinla\OneDrive\Desktop\C#Homework\HomeworkDistanceConverter\Hurricane\obj\Debug\Hurricane.frmHurricane.resources
+C:\Users\rinla\OneDrive\Desktop\C#Homework\HomeworkDistanceConverter\Hurricane\obj\Debug\Hurricane.Properties.Resources.resources
+C:\Users\rinla\OneDrive\Desktop\C#Homework\HomeworkDistanceConverter\Hurricane\obj\Debug\Hurricane.csproj.GenerateResource.cache
+C:\Users\rinla\OneDrive\Desktop\C#Homework\HomeworkDistanceConverter\Hurricane\obj\Debug\Hurricane.csproj.CoreCompileInputs.cache
+C:\Users\rinla\OneDrive\Desktop\C#Homework\HomeworkDistanceConverter\Hurricane\obj\Debug\Hurricane.exe
+C:\Users\rinla\OneDrive\Desktop\C#Homework\HomeworkDistanceConverter\Hurricane\obj\Debug\Hurricane.pdb

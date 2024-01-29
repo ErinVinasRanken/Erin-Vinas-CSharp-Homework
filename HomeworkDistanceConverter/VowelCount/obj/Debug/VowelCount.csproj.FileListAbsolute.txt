@@ -1,0 +1,10 @@
+C:\Users\rinla\OneDrive\Desktop\C#Homework\HomeworkDistanceConverter\VowelCount\bin\Debug\VowelCount.exe.config
+C:\Users\rinla\OneDrive\Desktop\C#Homework\HomeworkDistanceConverter\VowelCount\bin\Debug\VowelCount.exe
+C:\Users\rinla\OneDrive\Desktop\C#Homework\HomeworkDistanceConverter\VowelCount\bin\Debug\VowelCount.pdb
+C:\Users\rinla\OneDrive\Desktop\C#Homework\HomeworkDistanceConverter\VowelCount\obj\Debug\VowelCount.csproj.AssemblyReference.cache
+C:\Users\rinla\OneDrive\Desktop\C#Homework\HomeworkDistanceConverter\VowelCount\obj\Debug\VowelCount.frmVowelCount.resources
+C:\Users\rinla\OneDrive\Desktop\C#Homework\HomeworkDistanceConverter\VowelCount\obj\Debug\VowelCount.Properties.Resources.resources
+C:\Users\rinla\OneDrive\Desktop\C#Homework\HomeworkDistanceConverter\VowelCount\obj\Debug\VowelCount.csproj.GenerateResource.cache
+C:\Users\rinla\OneDrive\Desktop\C#Homework\HomeworkDistanceConverter\VowelCount\obj\Debug\VowelCount.csproj.CoreCompileInputs.cache
+C:\Users\rinla\OneDrive\Desktop\C#Homework\HomeworkDistanceConverter\VowelCount\obj\Debug\VowelCount.exe
+C:\Users\rinla\OneDrive\Desktop\C#Homework\HomeworkDistanceConverter\VowelCount\obj\Debug\VowelCount.pdb

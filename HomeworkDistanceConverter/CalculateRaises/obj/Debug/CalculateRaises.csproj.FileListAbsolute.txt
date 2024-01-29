@@ -1,0 +1,10 @@
+C:\Users\rinla\OneDrive\Desktop\C#Homework\HomeworkDistanceConverter\CalculateRaises\bin\Debug\CalculateRaises.exe.config
+C:\Users\rinla\OneDrive\Desktop\C#Homework\HomeworkDistanceConverter\CalculateRaises\bin\Debug\CalculateRaises.exe
+C:\Users\rinla\OneDrive\Desktop\C#Homework\HomeworkDistanceConverter\CalculateRaises\bin\Debug\CalculateRaises.pdb
+C:\Users\rinla\OneDrive\Desktop\C#Homework\HomeworkDistanceConverter\CalculateRaises\obj\Debug\CalculateRaises.csproj.AssemblyReference.cache
+C:\Users\rinla\OneDrive\Desktop\C#Homework\HomeworkDistanceConverter\CalculateRaises\obj\Debug\CalculateRaises.CalculateRaises.resources
+C:\Users\rinla\OneDrive\Desktop\C#Homework\HomeworkDistanceConverter\CalculateRaises\obj\Debug\CalculateRaises.Properties.Resources.resources
+C:\Users\rinla\OneDrive\Desktop\C#Homework\HomeworkDistanceConverter\CalculateRaises\obj\Debug\CalculateRaises.csproj.GenerateResource.cache
+C:\Users\rinla\OneDrive\Desktop\C#Homework\HomeworkDistanceConverter\CalculateRaises\obj\Debug\CalculateRaises.csproj.CoreCompileInputs.cache
+C:\Users\rinla\OneDrive\Desktop\C#Homework\HomeworkDistanceConverter\CalculateRaises\obj\Debug\CalculateRaises.exe
+C:\Users\rinla\OneDrive\Desktop\C#Homework\HomeworkDistanceConverter\CalculateRaises\obj\Debug\CalculateRaises.pdb

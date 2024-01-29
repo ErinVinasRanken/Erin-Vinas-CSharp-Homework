@@ -1,0 +1,7 @@
+C:\Users\rinla\OneDrive\Desktop\C#Homework\HomeworkDistanceConverter\MultiplicationTables\bin\Debug\MultiplicationTables.exe.config
+C:\Users\rinla\OneDrive\Desktop\C#Homework\HomeworkDistanceConverter\MultiplicationTables\bin\Debug\MultiplicationTables.exe
+C:\Users\rinla\OneDrive\Desktop\C#Homework\HomeworkDistanceConverter\MultiplicationTables\bin\Debug\MultiplicationTables.pdb
+C:\Users\rinla\OneDrive\Desktop\C#Homework\HomeworkDistanceConverter\MultiplicationTables\obj\Debug\MultiplicationTables.csproj.AssemblyReference.cache
+C:\Users\rinla\OneDrive\Desktop\C#Homework\HomeworkDistanceConverter\MultiplicationTables\obj\Debug\MultiplicationTables.csproj.CoreCompileInputs.cache
+C:\Users\rinla\OneDrive\Desktop\C#Homework\HomeworkDistanceConverter\MultiplicationTables\obj\Debug\MultiplicationTables.exe
+C:\Users\rinla\OneDrive\Desktop\C#Homework\HomeworkDistanceConverter\MultiplicationTables\obj\Debug\MultiplicationTables.pdb

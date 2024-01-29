@@ -1,0 +1,10 @@
+C:\Users\rinla\OneDrive\Desktop\C#Homework\HomeworkDistanceConverter\CollegeAdmission\bin\Debug\CollegeAdmission.exe.config
+C:\Users\rinla\OneDrive\Desktop\C#Homework\HomeworkDistanceConverter\CollegeAdmission\bin\Debug\CollegeAdmission.exe
+C:\Users\rinla\OneDrive\Desktop\C#Homework\HomeworkDistanceConverter\CollegeAdmission\bin\Debug\CollegeAdmission.pdb
+C:\Users\rinla\OneDrive\Desktop\C#Homework\HomeworkDistanceConverter\CollegeAdmission\obj\Debug\CollegeAdmission.csproj.AssemblyReference.cache
+C:\Users\rinla\OneDrive\Desktop\C#Homework\HomeworkDistanceConverter\CollegeAdmission\obj\Debug\CollegeAdmission.frmCollegeAdmission.resources
+C:\Users\rinla\OneDrive\Desktop\C#Homework\HomeworkDistanceConverter\CollegeAdmission\obj\Debug\CollegeAdmission.Properties.Resources.resources
+C:\Users\rinla\OneDrive\Desktop\C#Homework\HomeworkDistanceConverter\CollegeAdmission\obj\Debug\CollegeAdmission.csproj.GenerateResource.cache
+C:\Users\rinla\OneDrive\Desktop\C#Homework\HomeworkDistanceConverter\CollegeAdmission\obj\Debug\CollegeAdmission.csproj.CoreCompileInputs.cache
+C:\Users\rinla\OneDrive\Desktop\C#Homework\HomeworkDistanceConverter\CollegeAdmission\obj\Debug\CollegeAdmission.exe
+C:\Users\rinla\OneDrive\Desktop\C#Homework\HomeworkDistanceConverter\CollegeAdmission\obj\Debug\CollegeAdmission.pdb

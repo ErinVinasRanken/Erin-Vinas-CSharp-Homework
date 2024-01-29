@@ -1,0 +1,17 @@
+C:\Users\rinla\OneDrive\Desktop\C#Homework\HomeworkDistanceConverter\HomeworkDistanceConverter\obj\Debug\net8.0-windows\HomeworkDistanceConverter.frmDeistanceConverter.resources
+C:\Users\rinla\OneDrive\Desktop\C#Homework\HomeworkDistanceConverter\HomeworkDistanceConverter\obj\Debug\net8.0-windows\HomeworkDistanceConverter.frmDistanceConveter.resources
+C:\Users\rinla\OneDrive\Desktop\C#Homework\HomeworkDistanceConverter\HomeworkDistanceConverter\obj\Debug\net8.0-windows\HomeworkDistanceConverter.csproj.GenerateResource.cache
+C:\Users\rinla\OneDrive\Desktop\C#Homework\HomeworkDistanceConverter\HomeworkDistanceConverter\obj\Debug\net8.0-windows\HomeworkDistanceConverter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rinla\OneDrive\Desktop\C#Homework\HomeworkDistanceConverter\HomeworkDistanceConverter\obj\Debug\net8.0-windows\HomeworkDistanceConverter.AssemblyInfoInputs.cache
+C:\Users\rinla\OneDrive\Desktop\C#Homework\HomeworkDistanceConverter\HomeworkDistanceConverter\obj\Debug\net8.0-windows\HomeworkDistanceConverter.AssemblyInfo.cs
+C:\Users\rinla\OneDrive\Desktop\C#Homework\HomeworkDistanceConverter\HomeworkDistanceConverter\obj\Debug\net8.0-windows\HomeworkDistanceConverter.csproj.CoreCompileInputs.cache
+C:\Users\rinla\OneDrive\Desktop\C#Homework\HomeworkDistanceConverter\HomeworkDistanceConverter\bin\Debug\net8.0-windows\HomeworkDistanceConverter.exe
+C:\Users\rinla\OneDrive\Desktop\C#Homework\HomeworkDistanceConverter\HomeworkDistanceConverter\bin\Debug\net8.0-windows\HomeworkDistanceConverter.deps.json
+C:\Users\rinla\OneDrive\Desktop\C#Homework\HomeworkDistanceConverter\HomeworkDistanceConverter\bin\Debug\net8.0-windows\HomeworkDistanceConverter.runtimeconfig.json
+C:\Users\rinla\OneDrive\Desktop\C#Homework\HomeworkDistanceConverter\HomeworkDistanceConverter\bin\Debug\net8.0-windows\HomeworkDistanceConverter.dll
+C:\Users\rinla\OneDrive\Desktop\C#Homework\HomeworkDistanceConverter\HomeworkDistanceConverter\bin\Debug\net8.0-windows\HomeworkDistanceConverter.pdb
+C:\Users\rinla\OneDrive\Desktop\C#Homework\HomeworkDistanceConverter\HomeworkDistanceConverter\obj\Debug\net8.0-windows\HomeworkDistanceConverter.dll
+C:\Users\rinla\OneDrive\Desktop\C#Homework\HomeworkDistanceConverter\HomeworkDistanceConverter\obj\Debug\net8.0-windows\refint\HomeworkDistanceConverter.dll
+C:\Users\rinla\OneDrive\Desktop\C#Homework\HomeworkDistanceConverter\HomeworkDistanceConverter\obj\Debug\net8.0-windows\HomeworkDistanceConverter.pdb
+C:\Users\rinla\OneDrive\Desktop\C#Homework\HomeworkDistanceConverter\HomeworkDistanceConverter\obj\Debug\net8.0-windows\HomeworkDistanceConverter.genruntimeconfig.cache
+C:\Users\rinla\OneDrive\Desktop\C#Homework\HomeworkDistanceConverter\HomeworkDistanceConverter\obj\Debug\net8.0-windows\ref\HomeworkDistanceConverter.dll
