@@ -1,0 +1,10 @@
+C:\Users\rinla\OneDrive\Desktop\C#Homework\Homework\Homework03-01\bin\Debug\Homework03-01.exe.config
+C:\Users\rinla\OneDrive\Desktop\C#Homework\Homework\Homework03-01\bin\Debug\Homework03-01.exe
+C:\Users\rinla\OneDrive\Desktop\C#Homework\Homework\Homework03-01\bin\Debug\Homework03-01.pdb
+C:\Users\rinla\OneDrive\Desktop\C#Homework\Homework\Homework03-01\obj\Debug\Homework03-01.csproj.AssemblyReference.cache
+C:\Users\rinla\OneDrive\Desktop\C#Homework\Homework\Homework03-01\obj\Debug\Homework03_01.frmBMIApp.resources
+C:\Users\rinla\OneDrive\Desktop\C#Homework\Homework\Homework03-01\obj\Debug\Homework03_01.Properties.Resources.resources
+C:\Users\rinla\OneDrive\Desktop\C#Homework\Homework\Homework03-01\obj\Debug\Homework03-01.csproj.GenerateResource.cache
+C:\Users\rinla\OneDrive\Desktop\C#Homework\Homework\Homework03-01\obj\Debug\Homework03-01.csproj.CoreCompileInputs.cache
+C:\Users\rinla\OneDrive\Desktop\C#Homework\Homework\Homework03-01\obj\Debug\Homework03-01.exe
+C:\Users\rinla\OneDrive\Desktop\C#Homework\Homework\Homework03-01\obj\Debug\Homework03-01.pdb

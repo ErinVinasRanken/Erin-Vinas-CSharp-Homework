@@ -1,0 +1,10 @@
+C:\Users\rinla\OneDrive\Desktop\C#Homework\Homework\Homework03-06\bin\Debug\Homework03-06.exe.config
+C:\Users\rinla\OneDrive\Desktop\C#Homework\Homework\Homework03-06\bin\Debug\Homework03-06.exe
+C:\Users\rinla\OneDrive\Desktop\C#Homework\Homework\Homework03-06\bin\Debug\Homework03-06.pdb
+C:\Users\rinla\OneDrive\Desktop\C#Homework\Homework\Homework03-06\obj\Debug\Homework03-06.csproj.AssemblyReference.cache
+C:\Users\rinla\OneDrive\Desktop\C#Homework\Homework\Homework03-06\obj\Debug\Homework03_06.frmOrderValidator2.resources
+C:\Users\rinla\OneDrive\Desktop\C#Homework\Homework\Homework03-06\obj\Debug\Homework03_06.Properties.Resources.resources
+C:\Users\rinla\OneDrive\Desktop\C#Homework\Homework\Homework03-06\obj\Debug\Homework03-06.csproj.GenerateResource.cache
+C:\Users\rinla\OneDrive\Desktop\C#Homework\Homework\Homework03-06\obj\Debug\Homework03-06.csproj.CoreCompileInputs.cache
+C:\Users\rinla\OneDrive\Desktop\C#Homework\Homework\Homework03-06\obj\Debug\Homework03-06.exe
+C:\Users\rinla\OneDrive\Desktop\C#Homework\Homework\Homework03-06\obj\Debug\Homework03-06.pdb
