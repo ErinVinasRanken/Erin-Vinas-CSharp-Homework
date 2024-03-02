@@ -1,0 +1,11 @@
+C:\Users\rinla\Desktop\C#Homework\Homework\Homework9-2\bin\Debug\Homework9-2.exe.config
+C:\Users\rinla\Desktop\C#Homework\Homework\Homework9-2\bin\Debug\Homework9-2.exe
+C:\Users\rinla\Desktop\C#Homework\Homework\Homework9-2\bin\Debug\Homework9-2.pdb
+C:\Users\rinla\Desktop\C#Homework\Homework\Homework9-2\obj\Debug\Homework9-2.csproj.AssemblyReference.cache
+C:\Users\rinla\Desktop\C#Homework\Homework\Homework9-2\obj\Debug\Homework9_2.frmJobDatabase.resources
+C:\Users\rinla\Desktop\C#Homework\Homework\Homework9-2\obj\Debug\Homework9_2.frmSearchResults.resources
+C:\Users\rinla\Desktop\C#Homework\Homework\Homework9-2\obj\Debug\Homework9_2.Properties.Resources.resources
+C:\Users\rinla\Desktop\C#Homework\Homework\Homework9-2\obj\Debug\Homework9-2.csproj.GenerateResource.cache
+C:\Users\rinla\Desktop\C#Homework\Homework\Homework9-2\obj\Debug\Homework9-2.csproj.CoreCompileInputs.cache
+C:\Users\rinla\Desktop\C#Homework\Homework\Homework9-2\obj\Debug\Homework9-2.exe
+C:\Users\rinla\Desktop\C#Homework\Homework\Homework9-2\obj\Debug\Homework9-2.pdb

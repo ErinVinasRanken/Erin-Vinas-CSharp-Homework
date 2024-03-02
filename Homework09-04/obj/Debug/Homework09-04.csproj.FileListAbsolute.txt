@@ -1,0 +1,10 @@
+C:\Users\rinla\Desktop\C#Homework\Homework\Homework09-04\bin\Debug\Homework09-04.exe.config
+C:\Users\rinla\Desktop\C#Homework\Homework\Homework09-04\bin\Debug\Homework09-04.exe
+C:\Users\rinla\Desktop\C#Homework\Homework\Homework09-04\bin\Debug\Homework09-04.pdb
+C:\Users\rinla\Desktop\C#Homework\Homework\Homework09-04\obj\Debug\Homework09-04.csproj.AssemblyReference.cache
+C:\Users\rinla\Desktop\C#Homework\Homework\Homework09-04\obj\Debug\Homework09_04.frmReservations.resources
+C:\Users\rinla\Desktop\C#Homework\Homework\Homework09-04\obj\Debug\Homework09_04.Properties.Resources.resources
+C:\Users\rinla\Desktop\C#Homework\Homework\Homework09-04\obj\Debug\Homework09-04.csproj.GenerateResource.cache
+C:\Users\rinla\Desktop\C#Homework\Homework\Homework09-04\obj\Debug\Homework09-04.csproj.CoreCompileInputs.cache
+C:\Users\rinla\Desktop\C#Homework\Homework\Homework09-04\obj\Debug\Homework09-04.exe
+C:\Users\rinla\Desktop\C#Homework\Homework\Homework09-04\obj\Debug\Homework09-04.pdb
