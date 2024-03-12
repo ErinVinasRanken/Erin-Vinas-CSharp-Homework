@@ -1,0 +1,17 @@
+C:\Users\rinla\Desktop\C#Homework\Homework\Homework12-05\bin\Debug\net8.0-windows\Homework12-05.exe
+C:\Users\rinla\Desktop\C#Homework\Homework\Homework12-05\bin\Debug\net8.0-windows\Homework12-05.deps.json
+C:\Users\rinla\Desktop\C#Homework\Homework\Homework12-05\bin\Debug\net8.0-windows\Homework12-05.runtimeconfig.json
+C:\Users\rinla\Desktop\C#Homework\Homework\Homework12-05\bin\Debug\net8.0-windows\Homework12-05.dll
+C:\Users\rinla\Desktop\C#Homework\Homework\Homework12-05\bin\Debug\net8.0-windows\Homework12-05.pdb
+C:\Users\rinla\Desktop\C#Homework\Homework\Homework12-05\obj\Debug\net8.0-windows\Homework12_05.frmJobEstimate.resources
+C:\Users\rinla\Desktop\C#Homework\Homework\Homework12-05\obj\Debug\net8.0-windows\Homework12-05.csproj.GenerateResource.cache
+C:\Users\rinla\Desktop\C#Homework\Homework\Homework12-05\obj\Debug\net8.0-windows\Homework12-05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rinla\Desktop\C#Homework\Homework\Homework12-05\obj\Debug\net8.0-windows\Homework12-05.AssemblyInfoInputs.cache
+C:\Users\rinla\Desktop\C#Homework\Homework\Homework12-05\obj\Debug\net8.0-windows\Homework12-05.AssemblyInfo.cs
+C:\Users\rinla\Desktop\C#Homework\Homework\Homework12-05\obj\Debug\net8.0-windows\Homework12-05.csproj.CoreCompileInputs.cache
+C:\Users\rinla\Desktop\C#Homework\Homework\Homework12-05\obj\Debug\net8.0-windows\Homework12-05.sourcelink.json
+C:\Users\rinla\Desktop\C#Homework\Homework\Homework12-05\obj\Debug\net8.0-windows\Homework12-05.dll
+C:\Users\rinla\Desktop\C#Homework\Homework\Homework12-05\obj\Debug\net8.0-windows\refint\Homework12-05.dll
+C:\Users\rinla\Desktop\C#Homework\Homework\Homework12-05\obj\Debug\net8.0-windows\Homework12-05.pdb
+C:\Users\rinla\Desktop\C#Homework\Homework\Homework12-05\obj\Debug\net8.0-windows\Homework12-05.genruntimeconfig.cache
+C:\Users\rinla\Desktop\C#Homework\Homework\Homework12-05\obj\Debug\net8.0-windows\ref\Homework12-05.dll
