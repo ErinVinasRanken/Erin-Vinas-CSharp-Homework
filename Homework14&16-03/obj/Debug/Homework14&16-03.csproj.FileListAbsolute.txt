@@ -1,0 +1,14 @@
+C:\Users\rinla\Desktop\C#Homework\Homework\Homework14&16-03\bin\Debug\Homework14&16-03.exe.config
+C:\Users\rinla\Desktop\C#Homework\Homework\Homework14&16-03\bin\Debug\Homework14&16-03.exe
+C:\Users\rinla\Desktop\C#Homework\Homework\Homework14&16-03\bin\Debug\Homework14&16-03.pdb
+C:\Users\rinla\Desktop\C#Homework\Homework\Homework14&16-03\obj\Debug\Homework14&16-03.csproj.AssemblyReference.cache
+C:\Users\rinla\Desktop\C#Homework\Homework\Homework14&16-03\obj\Debug\Homework14_16_03.Form1.resources
+C:\Users\rinla\Desktop\C#Homework\Homework\Homework14&16-03\obj\Debug\Homework14_16_03.Properties.Resources.resources
+C:\Users\rinla\Desktop\C#Homework\Homework\Homework14&16-03\obj\Debug\Homework14&16-03.csproj.GenerateResource.cache
+C:\Users\rinla\Desktop\C#Homework\Homework\Homework14&16-03\obj\Debug\Homework14&16-03.csproj.CoreCompileInputs.cache
+C:\Users\rinla\Desktop\C#Homework\Homework\Homework14&16-03\obj\Debug\Homework14&16-03.exe
+C:\Users\rinla\Desktop\C#Homework\Homework\Homework14&16-03\obj\Debug\Homework14&16-03.pdb
+C:\Users\rinla\Desktop\C#Homework\Homework\Homework14&16-03\obj\Debug\Homework14_16_03.Statement.resources
+C:\Users\rinla\Desktop\C#Homework\Homework\Homework14&16-03\bin\Debug\BankLibrary.dll
+C:\Users\rinla\Desktop\C#Homework\Homework\Homework14&16-03\bin\Debug\BankLibrary.pdb
+C:\Users\rinla\Desktop\C#Homework\Homework\Homework14&16-03\obj\Debug\Homework14&16-03.csproj.CopyComplete

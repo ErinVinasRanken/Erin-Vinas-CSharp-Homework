@@ -1,0 +1,6 @@
+C:\Users\rinla\Desktop\C#Homework\Homework\BankLibrary\bin\Debug\BankLibrary.dll
+C:\Users\rinla\Desktop\C#Homework\Homework\BankLibrary\bin\Debug\BankLibrary.pdb
+C:\Users\rinla\Desktop\C#Homework\Homework\BankLibrary\obj\Debug\BankLibrary.csproj.AssemblyReference.cache
+C:\Users\rinla\Desktop\C#Homework\Homework\BankLibrary\obj\Debug\BankLibrary.csproj.CoreCompileInputs.cache
+C:\Users\rinla\Desktop\C#Homework\Homework\BankLibrary\obj\Debug\BankLibrary.dll
+C:\Users\rinla\Desktop\C#Homework\Homework\BankLibrary\obj\Debug\BankLibrary.pdb
