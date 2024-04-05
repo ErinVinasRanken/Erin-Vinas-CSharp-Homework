@@ -1,0 +1,6 @@
+C:\Users\rinla\Desktop\C#Homework\Homework\SongLibrary\bin\Debug\SongLibrary.dll
+C:\Users\rinla\Desktop\C#Homework\Homework\SongLibrary\bin\Debug\SongLibrary.pdb
+C:\Users\rinla\Desktop\C#Homework\Homework\SongLibrary\obj\Debug\SongLibrary.csproj.AssemblyReference.cache
+C:\Users\rinla\Desktop\C#Homework\Homework\SongLibrary\obj\Debug\SongLibrary.csproj.CoreCompileInputs.cache
+C:\Users\rinla\Desktop\C#Homework\Homework\SongLibrary\obj\Debug\SongLibrary.dll
+C:\Users\rinla\Desktop\C#Homework\Homework\SongLibrary\obj\Debug\SongLibrary.pdb

@@ -1,0 +1,10 @@
+C:\Users\rinla\Desktop\C#Homework\Homework\Homework18-03\bin\Debug\Homework18-03.exe.config
+C:\Users\rinla\Desktop\C#Homework\Homework\Homework18-03\bin\Debug\Homework18-03.exe
+C:\Users\rinla\Desktop\C#Homework\Homework\Homework18-03\bin\Debug\Homework18-03.pdb
+C:\Users\rinla\Desktop\C#Homework\Homework\Homework18-03\obj\Debug\Homework18-03.csproj.AssemblyReference.cache
+C:\Users\rinla\Desktop\C#Homework\Homework\Homework18-03\obj\Debug\Homework18_03.frmStudentGardes.resources
+C:\Users\rinla\Desktop\C#Homework\Homework\Homework18-03\obj\Debug\Homework18_03.Properties.Resources.resources
+C:\Users\rinla\Desktop\C#Homework\Homework\Homework18-03\obj\Debug\Homework18-03.csproj.GenerateResource.cache
+C:\Users\rinla\Desktop\C#Homework\Homework\Homework18-03\obj\Debug\Homework18-03.csproj.CoreCompileInputs.cache
+C:\Users\rinla\Desktop\C#Homework\Homework\Homework18-03\obj\Debug\Homework18-03.exe
+C:\Users\rinla\Desktop\C#Homework\Homework\Homework18-03\obj\Debug\Homework18-03.pdb

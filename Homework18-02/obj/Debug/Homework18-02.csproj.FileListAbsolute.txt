@@ -1,0 +1,7 @@
+C:\Users\rinla\Desktop\C#Homework\Homework\Homework18-02\bin\Debug\Homework18-02.exe.config
+C:\Users\rinla\Desktop\C#Homework\Homework\Homework18-02\bin\Debug\Homework18-02.exe
+C:\Users\rinla\Desktop\C#Homework\Homework\Homework18-02\bin\Debug\Homework18-02.pdb
+C:\Users\rinla\Desktop\C#Homework\Homework\Homework18-02\obj\Debug\Homework18-02.csproj.AssemblyReference.cache
+C:\Users\rinla\Desktop\C#Homework\Homework\Homework18-02\obj\Debug\Homework18-02.csproj.CoreCompileInputs.cache
+C:\Users\rinla\Desktop\C#Homework\Homework\Homework18-02\obj\Debug\Homework18-02.exe
+C:\Users\rinla\Desktop\C#Homework\Homework\Homework18-02\obj\Debug\Homework18-02.pdb
